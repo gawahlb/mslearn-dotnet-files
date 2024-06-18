@@ -1,0 +1,14 @@
+Sales Summary
+----------------------------
+$2,012.20
+
+Details:
+C:\Users\gawah\Desktop\School\Spring 2024\cse325\Week1\mslearn-dotnet-files\stores\sales.json: $2,012.20
+C:\Users\gawah\Desktop\School\Spring 2024\cse325\Week1\mslearn-dotnet-files\stores\201\sales.json: $2,101.08
+C:\Users\gawah\Desktop\School\Spring 2024\cse325\Week1\mslearn-dotnet-files\stores\201\salestotals.json: $2,602.30
+C:\Users\gawah\Desktop\School\Spring 2024\cse325\Week1\mslearn-dotnet-files\stores\202\sales.json: $2,602.30
+C:\Users\gawah\Desktop\School\Spring 2024\cse325\Week1\mslearn-dotnet-files\stores\202\salestotals.json: $3,836.52
+C:\Users\gawah\Desktop\School\Spring 2024\cse325\Week1\mslearn-dotnet-files\stores\203\sales.json: $3,836.52
+C:\Users\gawah\Desktop\School\Spring 2024\cse325\Week1\mslearn-dotnet-files\stores\203\salestotals.json: $3,935.52
+C:\Users\gawah\Desktop\School\Spring 2024\cse325\Week1\mslearn-dotnet-files\stores\204\sales.json: $3,935.52
+C:\Users\gawah\Desktop\School\Spring 2024\cse325\Week1\mslearn-dotnet-files\stores\204\salestotals.json: $4,024.40
